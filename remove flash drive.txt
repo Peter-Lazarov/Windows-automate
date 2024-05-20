@@ -1,0 +1,4 @@
+in field program/script
+powershell
+in field argument
+-Command "(New-Object -comObject Shell.Application).Namespace(17).ParseName(\"E:\").InvokeVerb(\"Eject\")"
