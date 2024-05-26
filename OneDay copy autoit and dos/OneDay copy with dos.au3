@@ -53,3 +53,5 @@ ElseIf $Dir[0] > $howManyArchiveFolders Then
 	  FileWrite($whereToCopy & "\allFolders.txt", $wholeFileEdited)
    EndIf
 EndIf
+
+Run(@ScriptDir & "\eject_flash_drive.exe")
