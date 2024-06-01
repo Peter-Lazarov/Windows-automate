@@ -1,0 +1,11 @@
+1. Crate New Task
+2. Run with highest privileges
+3. Trigger - (daily)
+4. Program/script: field - "D:\Archive\copy zip files from today.exe"
+5. Start in (optional): field - D:\Archive\
+
+
+
+
+in some cases Run as administrator is needed, try it first without
+6. copy zip files from today.exe - properties > compatability > check > Run as Administrator
